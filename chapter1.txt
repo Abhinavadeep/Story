@@ -1,0 +1,1 @@
+This is just an example text for the sake of understanding git and github.
